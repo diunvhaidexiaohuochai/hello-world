@@ -1,0 +1,9 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+//var 定义变量(单横注释)
+var str = "Hello, playground"
+/* let 定义常量（多行注释）
+ */
+let str2="hello,everybody"
+print(str2)
